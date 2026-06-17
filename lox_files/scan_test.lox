@@ -1,0 +1,10 @@
+var hesham = 24
+var maya = 23
+
+while (hesham == 24){
+    // This is while function comment
+    print(maya)
+}
+
+/* This is a block comment
+let's see if it works */

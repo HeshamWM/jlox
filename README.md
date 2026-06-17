@@ -1,5 +1,5 @@
 # jlox
-This is my implementation of the book Crafting Interpreters by Robert Nystrom—an interpreter for the Lox language.
+This is my implementation of the book Crafting Interpreters by Robert Nystrom. An interpreter for the Lox language.
 
 ## Requirements
 - Java 19+
